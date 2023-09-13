@@ -17,8 +17,7 @@ Users can:
 
 ### Screenshot
 
-![![Alt text](<quiz 1.JPG>)](./screenshot.jpg)
-
+![Alt text](<quiz 1.JPG>)
 
 
 ### Links
