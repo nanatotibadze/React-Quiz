@@ -17,9 +17,7 @@ Users can:
 
 ### Screenshot
 
-
-![![Alt text](<quiz 2.JPG>)](.![quiz 2](https://github.com/nanatotibadze/React-Quiz/assets/106735126/683d1bb7-4c3d-4a1d-a465-2ca3bbf0a775)
-)
+![![Alt text](<quiz 1.JPG>)](./screenshot.jpg)
 
 
 
