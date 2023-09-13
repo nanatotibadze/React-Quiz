@@ -6,11 +6,9 @@ and the number of points;
 
 Users can:
 -Answer questions in the quiz;
-
 - See the correct answer after choosing their answer;
-
 - See final score;
-  -Restart the quiz;
+- Restart the quiz;
 
   The application has a timer running, and when the timer finishes, the quiz will be finished
   automatically.
