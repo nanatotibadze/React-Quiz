@@ -18,6 +18,8 @@ Users can:
 ### Screenshot
 
 ![Alt text](<quiz 1.JPG>)
+![Alt text](<quiz 2.JPG>)
+![Alt text](<quiz 3.JPG>)
 
 
 ### Links
