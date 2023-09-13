@@ -18,7 +18,11 @@ Users can:
 ### Screenshot
 
 ![quiz 1]
-![![Alt text](<quiz 2.JPG>)](./screenshot.jpg)
+![![Alt text](<quiz 2.JPG>)](.![quiz 2](https://github.com/nanatotibadze/React-Quiz/assets/106735126/683d1bb7-4c3d-4a1d-a465-2ca3bbf0a775)
+)
+
+![quiz 2](https://github.com/nanatotibadze/React-Quiz/assets/106735126/1a67050d-9afc-485d-b311-7437602f0184)
+
 ![![Alt text](<quiz 3.JPG>)](./screenshot.jpg)
 
 ### Links
