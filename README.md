@@ -20,9 +20,6 @@ Users can:
 ![Alt text](<quiz 3.JPG>)
 
 
-### Links
-
-- Live Site URL:[(https://react-quiz-2rtn.vercel.app/)]
 
 ## My process
 
